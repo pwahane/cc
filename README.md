@@ -9,6 +9,7 @@
 - [Key Machine Learning Algorithms](./ai/key_ml_algorithms.md)
 - [Neural Networks](./ai/neural_networks.md)
 - [Convolutional Neural Networks](./ai/convolutional_neural_networks.md)
+- [Recurrent Neural Networks](./ai/recurrent_neural_networks.md)
 ## IoT
 ## Blockchain
 ## Cloud
