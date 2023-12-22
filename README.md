@@ -5,6 +5,7 @@
 - [Applications of AI](./ai/applications.md)
 - [Foundations of AI](./ai/foundations.md)
 - [Computer Science Fundamentals](./ai/computer_science_fundamental.md)
+- [Machine Learning Intri](./ai/ml_intro.md)
 ## IoT
 ## Blockchain
 ## Cloud
