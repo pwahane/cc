@@ -12,6 +12,7 @@
 - [Recurrent Neural Networks](./ai/recurrent_neural_networks.md)
 - [Natural Language Processing](./ai/natural_language_processing.md)
 - [NLP Applications](./ai/nlp_applications.md)
+- [Ethical Considerations](./ai/ethical_consideration.md)
 ## IoT
 ## Blockchain
 ## Cloud
