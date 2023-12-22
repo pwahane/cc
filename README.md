@@ -7,6 +7,7 @@
 - [Computer Science Fundamentals](./ai/computer_science_fundamental.md)
 - [Machine Learning Intri](./ai/ml_intro.md)
 - [Key Machine Learning Algorithms](./ai/key_ml_algorithms.md)
+- [Neural Networks](./ai/neural_networks.md)
 ## IoT
 ## Blockchain
 ## Cloud
