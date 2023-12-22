@@ -10,6 +10,7 @@
 - [Neural Networks](./ai/neural_networks.md)
 - [Convolutional Neural Networks](./ai/convolutional_neural_networks.md)
 - [Recurrent Neural Networks](./ai/recurrent_neural_networks.md)
+- [Natural Language Processing](./ai/natural_language_processing.md)
 ## IoT
 ## Blockchain
 ## Cloud
