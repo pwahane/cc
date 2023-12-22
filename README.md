@@ -5,7 +5,7 @@
 - [Applications of AI](./ai/applications.md)
 - [Foundations of AI](./ai/foundations.md)
 - [Computer Science Fundamentals](./ai/computer_science_fundamental.md)
-- [Machine Learning Intri](./ai/ml_intro.md)
+- [Machine Learning Intro](./ai/ml_intro.md)
 - [Key Machine Learning Algorithms](./ai/key_ml_algorithms.md)
 - [Neural Networks](./ai/neural_networks.md)
 - [Convolutional Neural Networks](./ai/convolutional_neural_networks.md)
