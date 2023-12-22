@@ -13,6 +13,7 @@
 - [Natural Language Processing](./ai/natural_language_processing.md)
 - [NLP Applications](./ai/nlp_applications.md)
 - [Ethical Considerations](./ai/ethical_consideration.md)
+- [Future Trends and Impact](./ai/future_trends_and_impact.md)
 ## IoT
 ## Blockchain
 ## Cloud
