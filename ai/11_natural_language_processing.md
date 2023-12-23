@@ -1,40 +1,40 @@
 Natural Language Processing (NLP) represents a field at the intersection of linguistics and artificial intelligence, aiming to enable computers to understand, interpret, and generate human language. In this module, we embark on an introductory exploration of NLP, focusing on text processing and analysis as foundational aspects of language understanding by machines.
 
-1. Foundations of Natural Language Processing
+## Foundations of Natural Language Processing
 
-1.1 Definition and Scope
+### Definition and Scope
 
 Natural Language Processing is a branch of artificial intelligence that focuses on the interaction between computers and human language. The overarching goal is to equip machines with the ability to comprehend, interpret, and respond to natural language, bridging the communication gap between humans and machines.
 
-1.2 Challenges in NLP
+### Challenges in NLP
 
 Understanding human language poses several challenges for machines. Ambiguity, context dependence, and variations in expression are some of the hurdles that NLP algorithms need to overcome. Additionally, the richness of languages and the nuances of semantics make NLP a complex and dynamic field.
 
-2. Text Processing in NLP
+## Text Processing in NLP
 
-2.1 Tokenization: Breaking Down Text
+### Tokenization: Breaking Down Text
 
 Tokenization is the process of breaking down text into individual units, or tokens. Tokens can be words, phrases, or even characters. This step is crucial for subsequent analysis and understanding the structure of the text.
 
-2.2 Part-of-Speech Tagging: Grammatical Categorization
+### Part-of-Speech Tagging: Grammatical Categorization
 
 Part-of-speech tagging involves assigning grammatical categories, such as noun, verb, or adjective, to each token in a text. This step is vital for understanding the syntactic structure of sentences and extracting meaningful information.
 
-2.3 Named Entity Recognition (NER): Identifying Entities
+### Named Entity Recognition (NER): Identifying Entities
 
 Named Entity Recognition focuses on identifying and categorizing named entities within a text. Entities can include names of people, organizations, locations, dates, and more. NER is essential for extracting structured information from unstructured text.
 
-3. Text Analysis in NLP
+## Text Analysis in NLP
 
-3.1 Sentiment Analysis: Understanding Opinions
+### Sentiment Analysis: Understanding Opinions
 
 Sentiment analysis involves determining the sentiment or emotion expressed in a piece of text. This can be positive, negative, or neutral. Applications include analyzing product reviews, social media sentiments, and customer feedback.
 
-3.2 Text Classification: Categorizing Text
+### Text Classification: Categorizing Text
 
 Text classification involves categorizing text into predefined categories or topics. Machine learning algorithms, such as those based on natural language processing, can be trained to automatically classify documents into relevant categories.
 
-3.3 Language Modeling: Predicting Next Words
+### Language Modeling: Predicting Next Words
 
 Language modeling focuses on predicting the likelihood of a sequence of words. This is foundational for various NLP applications, including autocomplete suggestions, machine translation, and speech recognition.
 
