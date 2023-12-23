@@ -6,29 +6,29 @@ The roots of AI can be traced back to ancient times when myths and stories depic
 
 ## Milestones in AI Development
 
-1. The Birth of AI (1950s-1960s)
+### The Birth of AI (1950s-1960s)
 
 The foundational years of AI were marked by enthusiasm and optimism. In 1950, Alan Turing proposed the Turing Test, a benchmark for evaluating a machine's ability to exhibit intelligent behavior indistinguishable from that of a human. This idea set the stage for early AI research.
 
 In 1951, Christopher Strachey developed the first AI program, a checkers (draughts) game-playing program on the Ferranti Mark I computer. The same decade saw significant breakthroughs, including Arthur Samuel's development of a self-learning checkers program.
 
-2. The AI Winter (1970s-1980s)
+### The AI Winter (1970s-1980s)
 
 Despite the initial progress, the 1970s and 1980s witnessed a period known as the "AI Winter." Funding dwindled as early promises failed to materialize. The challenges of creating intelligent machines became apparent, and interest in AI waned. However, research continued in areas like expert systems, rule-based systems designed to emulate human decision-making.
 
-3. Resurgence and Practical Applications (1990s-2000s)
+### Resurgence and Practical Applications (1990s-2000s)
 
 The AI Winter thawed in the 1990s, thanks to advances in computing power and the emergence of new techniques. Machine learning, particularly neural networks, gained traction. Practical applications started to emerge, such as speech recognition and computer vision.
 
 In 1997, IBM's Deep Blue defeated world chess champion Garry Kasparov, showcasing the power of AI in specialized tasks. Around the same time, the development of practical AI applications like virtual personal assistants and recommendation systems began to reshape industries.
 
-4. Rise of Machine Learning (2010s)
+### Rise of Machine Learning (2010s)
 
 The 2010s witnessed a seismic shift in AI, driven by the rise of machine learning and deep learning. The availability of vast amounts of data, coupled with improved algorithms and computational resources, propelled AI to new heights.
 
 In 2011, IBM's Watson demonstrated the capability to understand and answer natural language questions, showcasing the potential of AI in cognitive tasks. The development of deep learning models, particularly convolutional neural networks (CNNs) for image recognition and recurrent neural networks (RNNs) for sequential data, revolutionized AI applications.
 
-5. AI in Everyday Life (2020s-Present)
+### AI in Everyday Life (2020s-Present)
 
 As we enter the 2020s, AI is an integral part of everyday life. Virtual assistants, recommendation systems, and autonomous vehicles are commonplace. Natural language processing and computer vision have reached new levels of sophistication, enabling AI systems to understand and interact with the world in ways once thought impossible.
 
